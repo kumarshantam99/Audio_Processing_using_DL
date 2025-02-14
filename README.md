@@ -79,27 +79,27 @@ Provides human-readable analysis of results:
 ## Interpretation Guidelines
 ### Tone Score
 
-8.5-10: Exceptionally clear and pure
-7-8.4: Very clear and clean
-5.5-6.9: Moderately clear
-4-5.4: Slightly unclear
-1-3.9: Unclear or noisy
+* 8.5-10: Exceptionally clear and pure
+* 7-8.4: Very clear and clean
+* 5.5-6.9: Moderately clear
+* 4-5.4: Slightly unclear
+* 1-3.9: Unclear or noisy
 
 ### Pitch Score
 
-8.5-10: Very high
-7-8.4: High
-5.5-6.9: Medium-high
-4-5.4: Medium-low
-1-3.9: Low
+* 8.5-10: Very high
+* 7-8.4: High
+* 5.5-6.9: Medium-high
+* 4-5.4: Medium-low
+* 1-3.9: Low
 
 ### Pace Score
 
-8.5-10: Very fast
-7-8.4: Fast
-5.5-6.9: Moderate to fast
-4-5.4: Moderate
-1-3.9: Slow
+* 8.5-10: Very fast
+* 7-8.4: Fast
+* 5.5-6.9: Moderate to fast
+* 4-5.4: Moderate
+* 1-3.9: Slow
 
 ## Limitations
 
